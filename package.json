@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "postcss ./css/input.css -o ./dist/output.css --watch"
+    "dev": "postcss ./src/css/input.css -o ./dist/output.css --watch"
   },
   "keywords": [
     "tailwindcss",
