@@ -1,10 +1,10 @@
-# Solucíon Frontend Mentor - News Homepage Main
+# Solucíon Frontend Mentor - News Homepage
 
-Mi [solucíon](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl) de Frontend Mentor al desafío *"News Homepage Main"*
+Mi [solucíon](https://www.frontendmentor.io/solutions/solution-to-the-news-homepage-challenge-with-tailwindcss-xwH-pynHQF) de Frontend Mentor al desafío *"News Homepage"*
 
 ## Tabla de contenidos
 
-- [Solucíon Frontend Mentor - News Homepage Main](#solucíon-frontend-mentor---news-homepage-main)
+- [Solucíon Frontend Mentor - News Homepage](#solucíon-frontend-mentor---news-homepage)
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Resumen](#resumen)
     - [El Desafío](#el-desafío)
@@ -46,9 +46,8 @@ Los usuarios deberían poder:
 
 ### Links
 
-<!-- TDOD falata agrear unos link -->
 - [Web](https://salando25.github.io/news_homepage_main/)
-- [Solucion]()
+- [Solución](https://www.frontendmentor.io/solutions/solution-to-the-news-homepage-challenge-with-tailwindcss-xwH-pynHQF)
 
 ### Tenologías
 
