@@ -1,6 +1,6 @@
 {
   "name": "news_homepage_main",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "proyecto de Frontend Mentor, 'News Homepage Main'",
   "main": "index.html",
   "scripts": {
