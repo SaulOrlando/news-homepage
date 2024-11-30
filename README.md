@@ -1,7 +1,5 @@
 # Solucíon Frontend Mentor - News Homepage
 
-Mi [solucíon](https://www.frontendmentor.io/solutions/solution-to-the-news-homepage-challenge-with-tailwindcss-xwH-pynHQF) de Frontend Mentor al desafío *"News Homepage"*
-
 ## Tabla de contenidos
 
 - [Solucíon Frontend Mentor - News Homepage](#solucíon-frontend-mentor---news-homepage)
@@ -13,9 +11,7 @@ Mi [solucíon](https://www.frontendmentor.io/solutions/solution-to-the-news-home
       - [Mobile - Navbar](#mobile---navbar)
       - [Desktop](#desktop)
         - [Hovers](#hovers)
-    - [Links](#links)
     - [Tenologías](#tenologías)
-  - [Autor](#autor)
 
 ## Resumen
 
@@ -44,11 +40,6 @@ Los usuarios deberían poder:
 
 ![desktop_hovers](./screenshots/desktop_hovers.png)
 
-### Links
-
-- [Web](https://salando25.github.io/news_homepage_main/)
-- [Solución](https://www.frontendmentor.io/solutions/solution-to-the-news-homepage-challenge-with-tailwindcss-xwH-pynHQF)
-
 ### Tenologías
 
 - HTML Semantico
@@ -56,8 +47,3 @@ Los usuarios deberían poder:
 - Enfoque Mobile First
 - Tailwindcss
 - Postcss
-
-## Autor
-
-- [Frontend Mentor](https://www.frontendmentor.io/profile/salando25)
-- [Github](https://github.com/salando25)
